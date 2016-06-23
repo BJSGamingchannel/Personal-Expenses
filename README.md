@@ -6,7 +6,7 @@ If you have never downloaded the program before, download the folder "Personal E
 
 If you have already downloaded Personal Expenses and are looking to update your program, please download the folder name "Personal Expenses - Version (whatvever versionn) update". Please make sure that your place the contents of the folder within the old folder, replaces any old files.
 
-If you are looking to see what updates are up and coming download the folder called "Personal Expenses - Development Build", but please note that this version is un-stable.
+If you are looking to see what updates are up and coming in the future please send a request to beaujacksaunders@gmail.com with your reasoning for downloading the Development Build of the program.
 
 # Personal Expenses
 
