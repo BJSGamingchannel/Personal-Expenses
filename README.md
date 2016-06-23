@@ -1,3 +1,13 @@
+#Version's 
+
+If you're wondering "Which one should I download?" the answer is:
+
+If you have never downloaded the program before, download the folder "Personal Expenses - Version (whatever version)".
+
+If you have already downloaded Personal Expenses and are looking to update your program, please download the folder name "Personal Expenses - Version (whatvever versionn) update". Please make sure that your place the contents of the folder within the old folder, replaces any old files.
+
+If you are looking to see what updates are up and coming download the folder called "Personal Expenses - Development Build", but please note that this version is un-stable.
+
 # Personal Expenses
 
 ##Author: Beau Saunders
@@ -13,15 +23,6 @@ If you have any question or requests for the program please send an email to bea
 
 We ask that you please do not copy any of the code from Personal Expenses as it has taken quite a lot of time and effort to create the program, thank you.
 
-#Version's 
-
-If you're wondering "Which one should I download?" the answer is:
-
-If you have never downloaded the program before, download the folder "Personal Expenses - Version (whatever version)".
-
-If you have already downloaded Personal Expenses and are looking to update your program, please download the folder name "Personal Expenses - Version (whatvever versionn) update". Please make sure that your place the contents of the folder within the old folder, replaces any old files.
-
-If you are looking to see what updates are up and coming download the folder called "Personal Expenses - Development Build", but please note that this version is un-stable.
 
 #In/Outcome Calculator
 
